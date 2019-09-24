@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meal-orderer/static/css/main.1df75e5f.chunk.css",
+    "main.js": "/meal-orderer/static/js/main.3d409265.chunk.js",
+    "main.js.map": "/meal-orderer/static/js/main.3d409265.chunk.js.map",
+    "runtime~main.js": "/meal-orderer/static/js/runtime~main.31ce2417.js",
+    "runtime~main.js.map": "/meal-orderer/static/js/runtime~main.31ce2417.js.map",
+    "static/css/2.d062aa4c.chunk.css": "/meal-orderer/static/css/2.d062aa4c.chunk.css",
+    "static/js/2.29d8d037.chunk.js": "/meal-orderer/static/js/2.29d8d037.chunk.js",
+    "static/js/2.29d8d037.chunk.js.map": "/meal-orderer/static/js/2.29d8d037.chunk.js.map",
+    "index.html": "/meal-orderer/index.html",
+    "precache-manifest.1d3169f82bef2a3ee3aa06efe155970d.js": "/meal-orderer/precache-manifest.1d3169f82bef2a3ee3aa06efe155970d.js",
+    "service-worker.js": "/meal-orderer/service-worker.js",
+    "static/css/2.d062aa4c.chunk.css.map": "/meal-orderer/static/css/2.d062aa4c.chunk.css.map",
+    "static/css/main.1df75e5f.chunk.css.map": "/meal-orderer/static/css/main.1df75e5f.chunk.css.map"
+  }
+}
