@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+main {
+    min-height: 100vh;
+    padding-bottom: 50px;
+}
+
+footer {
+    margin-top: -50px;
+
+}
+
+h4 {
+    color: #212529;
+    font-weight: 700;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.nav-wrapper a:hover {
+    color: white;
+}
+
+.card-image img {
+    object-fit: cover;
+    height: 120px;
+    object-position: 0% 50%;
+}
+
+.card-title {
+    text-shadow: 3px 3px 5px #000000;
+    font-weight: 700 !important;
+    font-size: 28px !important;
+}
+
+.card .btn-floating:hover {
+    transition: all .2s ease-in-out !important;
+    transform: scale(1.1) !important;
+    background: #388e3c !important;
+}
+
+.shopping-cart .card .btn:hover {
+    transition: all .2s ease-in-out !important;
+    transform: scale(1.1) !important;
+    background: #d32f2f !important;
+    color: white;
+}
+
+.shopping-cart .card-content .row {
+    margin-bottom: 0px;
+}
+
+.shopping-cart i.quantity-btn {
+    color: #78909c;
+}
+
+.center-block {
+    display: table;
+    margin: auto;
+}
+
+.page-footer {
+    padding-top: 0px !important;
+}
+
+.page-footer a {
+    line-height: 30px;
+    font-size: 0.875rem;
+}
+
+.page-footer .github-icon {
+    margin-right: 5px;
+    width: 25px;
+}
